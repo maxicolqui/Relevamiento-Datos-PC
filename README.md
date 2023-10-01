@@ -11,7 +11,7 @@
 <h3>Mostrar los datos cargados del Establecimiento</h3>
 <img src="datos-establecimiento.png" alt="">
 <h3>Editar los Datos Cargados del Establecimiento</h3>
-<img src="inicio.png" alt="">
+<img src="edicion.png" alt="">
 <h3>Tambien tiene una opcion de Generar Archivo en formato Excel</h3>
 <img src="archivo.png" alt="">
 
